@@ -5,7 +5,7 @@
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
-    color: #ffffff;
+    color: #87CEEB;
     font-size: 50pt;
     text-decoration: none;
 }
@@ -43,6 +43,6 @@ h1, h2, h3, h4 {
 }
 
 .post h1 a, .post h1 a:visited {
-    color: green;
+    color: #4682B4;
 }
 
